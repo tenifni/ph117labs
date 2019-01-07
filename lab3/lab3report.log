@@ -1,0 +1,470 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.13)  1 FEB 2017 03:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lab3report.tex
+(./lab3report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 21 languages loaded.
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+(./lab3report.aux)
+\openout1 = `lab3report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2015basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 412.56497pt, 99.58464pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=731.23582pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+<a_sineFFT.jpg, id=1, 256.96pt x 192.72pt>
+File: a_sineFFT.jpg Graphic file (type jpg)
+ <use a_sineFFT.jpg>
+Package pdftex.def Info: a_sineFFT.jpg used on input line 21.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<a_squareFFT.jpg, id=2, 256.96pt x 192.72pt>
+File: a_squareFFT.jpg Graphic file (type jpg)
+ <use a_squareFFT.jpg>
+Package pdftex.def Info: a_squareFFT.jpg used on input line 26.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+<b_circuit.jpg, id=3, 419.5675pt x 281.05pt>
+File: b_circuit.jpg Graphic file (type jpg)
+ <use b_circuit.jpg>
+Package pdftex.def Info: b_circuit.jpg used on input line 33.
+(pdftex.def)             Requested size: 209.78323pt x 140.52464pt.
+ [1
+
+{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
+a_sineFFT.jpg> <./a_squareFFT.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+ <b_resonance.jpg, id=13, 256.96pt x 192.72pt>
+File: b_resonance.jpg Graphic file (type jpg)
+
+<use b_resonance.jpg>
+Package pdftex.def Info: b_resonance.jpg used on input line 38.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ <b_8Hz.jpg, id=14, 256.96pt x 192.72pt>
+File: b_8Hz.jpg Graphic file (type jpg)
+ <use b_8Hz.jpg>
+Package pdftex.def Info: b_8Hz.jpg used on input line 43.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<b_26Hz.jpg, id=15, 256.96pt x 192.72pt>
+File: b_26Hz.jpg Graphic file (type jpg)
+ <use b_26Hz.jpg>
+Package pdftex.def Info: b_26Hz.jpg used on input line 48.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [2 <./b_circuit.jpg> <./b_resonance.jpg> <./b_8Hz.jpg>] <c_qfactor.jpg, id=26,
+ 256.96pt x 192.72pt>
+File: c_qfactor.jpg Graphic file (type jpg)
+
+<use c_qfactor.jpg>
+Package pdftex.def Info: c_qfactor.jpg used on input line 55.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+<D_resonance.jpg, id=27, 256.96pt x 192.72pt>
+File: D_resonance.jpg Graphic file (type jpg)
+ <use D_resonance.jpg>
+Package pdftex.def Info: D_resonance.jpg used on input line 62.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [3 <./b_26Hz.jpg> <./c_qfactor.jpg>] <D_qfactor.jpg, id=32, 256.96pt x 192.72p
+t>
+File: D_qfactor.jpg Graphic file (type jpg)
+
+<use D_qfactor.jpg>
+Package pdftex.def Info: D_qfactor.jpg used on input line 67.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+<e_squareResonance.jpg, id=33, 256.96pt x 192.72pt>
+File: e_squareResonance.jpg Graphic file (type jpg)
+
+<use e_squareResonance.jpg>
+Package pdftex.def Info: e_squareResonance.jpg used on input line 79.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [4 <./D_resonance.jpg> <./D_qfactor.jpg>]
+<e_54hz.jpg, id=37, 256.96pt x 192.72pt>
+File: e_54hz.jpg Graphic file (type jpg)
+ <use e_54hz.jpg>
+Package pdftex.def Info: e_54hz.jpg used on input line 84.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<e_33hz.jpg, id=38, 256.96pt x 192.72pt>
+File: e_33hz.jpg Graphic file (type jpg)
+ <use e_33hz.jpg>
+Package pdftex.def Info: e_33hz.jpg used on input line 89.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<e_233hz.jpg, id=39, 256.96pt x 192.72pt>
+File: e_233hz.jpg Graphic file (type jpg)
+ <use e_233hz.jpg>
+Package pdftex.def Info: e_233hz.jpg used on input line 94.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [5 <./e_squareResonance.jpg> <./e_54hz.jpg> <./e_33hz.jpg>]
+<e_18hz.jpg, id=43, 256.96pt x 192.72pt>
+File: e_18hz.jpg Graphic file (type jpg)
+ <use e_18hz.jpg>
+Package pdftex.def Info: e_18hz.jpg used on input line 98.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<f_circuit.jpeg, id=44, 487.8225pt x 210.7875pt>
+File: f_circuit.jpeg Graphic file (type jpg)
+ <use f_circuit.jpeg>
+Package pdftex.def Info: f_circuit.jpeg used on input line 105.
+(pdftex.def)             Requested size: 195.12553pt x 84.3135pt.
+
+<f_halfrectifier.jpg, id=45, 256.96pt x 192.72pt>
+File: f_halfrectifier.jpg Graphic file (type jpg)
+ <use f_halfrectifier.jpg>
+Package pdftex.def Info: f_halfrectifier.jpg used on input line 110.
+(pdftex.def)             Requested size: 167.02202pt x 125.2665pt.
+
+[6 <./e_233hz.jpg> <./e_18hz.jpg> <./f_circuit.jpeg> <./f_halfrectifier.jpg>]
+<g_circuit.jpeg, id=49, 714.67pt x 347.2975pt>
+File: g_circuit.jpeg Graphic file (type jpg)
+ <use g_circuit.jpeg>
+Package pdftex.def Info: g_circuit.jpeg used on input line 117.
+(pdftex.def)             Requested size: 250.13824pt x 121.55594pt.
+
+<g_subtract.jpg, id=50, 256.96pt x 192.72pt>
+File: g_subtract.jpg Graphic file (type jpg)
+ <use g_subtract.jpg>
+Package pdftex.def Info: g_subtract.jpg used on input line 123.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<h_circuit.jpeg, id=51, 784.9325pt x 335.2525pt>
+File: h_circuit.jpeg Graphic file (type jpg)
+ <use h_circuit.jpeg>
+Package pdftex.def Info: h_circuit.jpeg used on input line 131.
+(pdftex.def)             Requested size: 235.48155pt x 100.57652pt.
+ [7 <./g_circuit.jpeg> <./g_subtract.jpg> <./h_circuit.jpeg>]
+<i_ripple.jpg, id=56, 256.96pt x 192.72pt>
+File: i_ripple.jpg Graphic file (type jpg)
+ <use i_ripple.jpg>
+Package pdftex.def Info: i_ripple.jpg used on input line 138.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<j_circuit.jpeg, id=57, 483.8075pt x 293.095pt>
+File: j_circuit.jpeg Graphic file (type jpg)
+ <use j_circuit.jpeg>
+Package pdftex.def Info: j_circuit.jpeg used on input line 145.
+(pdftex.def)             Requested size: 193.51956pt x 117.23592pt.
+
+<j_rcdischarge.jpg, id=58, 256.96pt x 192.72pt>
+File: j_rcdischarge.jpg Graphic file (type jpg)
+ <use j_rcdischarge.jpg>
+Package pdftex.def Info: j_rcdischarge.jpg used on input line 150.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+[8 <./i_ripple.jpg> <./j_circuit.jpeg> <./j_rcdischarge.jpg>]
+<k_circuit.jpeg, id=62, 387.4475pt x 254.9525pt>
+File: k_circuit.jpeg Graphic file (type jpg)
+ <use k_circuit.jpeg>
+Package pdftex.def Info: k_circuit.jpeg used on input line 157.
+(pdftex.def)             Requested size: 154.97624pt x 101.97919pt.
+
+<k_below.jpg, id=63, 256.96pt x 192.72pt>
+File: k_below.jpg Graphic file (type jpg)
+ <use k_below.jpg>
+Package pdftex.def Info: k_below.jpg used on input line 162.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<k_above.jpg, id=64, 256.96pt x 192.72pt>
+File: k_above.jpg Graphic file (type jpg)
+ <use k_above.jpg>
+Package pdftex.def Info: k_above.jpg used on input line 167.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<l_circuit.jpeg, id=65, 341.275pt x 283.0575pt>
+File: l_circuit.jpeg Graphic file (type jpg)
+ <use l_circuit.jpeg>
+Package pdftex.def Info: l_circuit.jpeg used on input line 173.
+(pdftex.def)             Requested size: 119.44803pt x 99.0716pt.
+ [9 <./k_circuit.jpeg> <./k_below.jpg> <./k_above.jpg>]
+<l_sine.jpg, id=69, 256.96pt x 192.72pt>
+File: l_sine.jpg Graphic file (type jpg)
+ <use l_sine.jpg>
+Package pdftex.def Info: l_sine.jpg used on input line 179.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<l_square.jpg, id=70, 256.96pt x 192.72pt>
+File: l_square.jpg Graphic file (type jpg)
+ <use l_square.jpg>
+Package pdftex.def Info: l_square.jpg used on input line 184.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<l_triangle.jpg, id=71, 256.96pt x 192.72pt>
+File: l_triangle.jpg Graphic file (type jpg)
+ <use l_triangle.jpg>
+Package pdftex.def Info: l_triangle.jpg used on input line 189.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [10 <./l_circuit.jpeg> <./l_sine.jpg> <./l_square.jpg> <./l_triangle.jpg>]
+<l_sawtooth.jpg, id=75, 256.96pt x 192.72pt>
+File: l_sawtooth.jpg Graphic file (type jpg)
+ <use l_sawtooth.jpg>
+Package pdftex.def Info: l_sawtooth.jpg used on input line 194.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+
+<n_circuit.jpg, id=76, 495.8525pt x 281.05pt>
+File: n_circuit.jpg Graphic file (type jpg)
+ <use n_circuit.jpg>
+Package pdftex.def Info: n_circuit.jpg used on input line 202.
+(pdftex.def)             Requested size: 198.33748pt x 112.418pt.
+
+<n_zener.jpg, id=77, 256.96pt x 192.72pt>
+File: n_zener.jpg Graphic file (type jpg)
+ <use n_zener.jpg>
+Package pdftex.def Info: n_zener.jpg used on input line 208.
+(pdftex.def)             Requested size: 205.56827pt x 154.1762pt.
+ [11 <./l_sawtooth.jpg> <./n_circuit.jpg> <./n_zener.jpg>] (./lab3report.aux) )
+ 
+Here is how much of TeX's memory you used:
+ 2122 strings out of 494501
+ 31399 string characters out of 6167030
+ 92547 words of memory out of 5000000
+ 5370 multiletter control sequences out of 15000+600000
+ 6983 words of font info for 25 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 38i,6n,28p,964b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi7.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015basic/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on lab3report.pdf (11 pages, 2929023 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+
